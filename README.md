@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Ayush Kumar
 
-<!--
-**aayushh6/aayushh6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about learning and building for the web  
+💻 Computer Science Student | Future Web Developer | Open Source Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+- 🎓 CSE Student | Learning Web Development (HTML, CSS, JavaScript, Git & GitHub)
+- 🌱 Currently improving my coding skills every day  
+- 🚀 Open to collaborating on beginner-friendly projects  
+- 🎯 2025 Goal: Become a confident Frontend Developer & Open Source Contributor  
+
+---
+
+## 💡 What I’m Learning
+
+- Frontend Development  
+- Open Source Basics  
+- Git, GitHub, and Version Control  
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ayush-kumar-161380327)  
+- 📧 Email: durganagar76@gmail.com  
+
+---
+
+*"Learning. Improving. Preparing for a better tomorrow."* 🚀
