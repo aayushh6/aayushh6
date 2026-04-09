@@ -1,32 +1,18 @@
-# Hi there 👋 I'm Ayush Kumar
+Hi 👋, I'm Ayush Kumar  
 
-🚀 Passionate about learning and building for the web  
-💻 Computer Science Student | Future Web Developer | Open Source Enthusiast  
+🚀 Passionate about Artificial Intelligence, Machine Learning, and building real-world projects  
 
----
+🔹 Currently working on:
+- 🤖 RAG AI Systems  
+- 🧠 Mini LLM (from scratch)  
+- 📊 ML Pipelines with MLflow  
 
-## 🔥 About Me
+🔹 Skills:
+- Python | Machine Learning | Deep Learning  
+- FastAPI | LangChain | FAISS  
+- Data Science & NLP  
 
-- 🎓 CSE Student | Learning Web Development (HTML, CSS, JavaScript, Git & GitHub)
-- 🌱 Currently improving my coding skills every day  
-- 🚀 Open to collaborating on beginner-friendly projects  
-- 🎯 2025 Goal: Become a confident Frontend Developer & Open Source Contributor  
+🎯 Goal: To become an AI Engineer and build impactful solutions  
 
----
-
-## 💡 What I’m Learning
-
-- Frontend Development  
-- Open Source Basics  
-- Git, GitHub, and Version Control  
-
----
-
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ayush-kumar-161380327)  
-- 📧 Email: durganagar76@gmail.com  
-
----
-
-*"Learning. Improving. Preparing for a better tomorrow."* 🚀
+📫 Connect with me: [[Add LinkedIn here](https://www.linkedin.com/in/ayush-kumar-161380327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+📫 Connect with me: [[]
