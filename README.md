@@ -14,5 +14,5 @@ Hi 👋, I'm Ayush Kumar
 
 🎯 Goal: To become an AI Engineer and build impactful solutions  
 
-📫 Connect with me: [[Add LinkedIn here](https://www.linkedin.com/in/ayush-kumar-161380327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-📫 Connect with me: [[]
+📫 Connect with me: (https://www.linkedin.com/in/ayush-kumar-161380327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+
